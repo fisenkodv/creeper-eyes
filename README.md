@@ -2,6 +2,8 @@
 
 https://www.printables.com/model/620191-frankenstein-head-with-animated-eyes
 
+Here is my version https://www.printables.com/make/2105896
+
 # Pinout for Adafruit HUZZAH32 – ESP32 Feather Board
 
 <https://www.adafruit.com/product/3619>
